@@ -54,12 +54,14 @@ hash = 'SHA256:4528e3bb08b5ebf255ed9dd5698b286abf4b84f6c13c33b8bf753a40d9adcafb'
 #url = ''
 #hash = 'SHA256:'
 
-[tablist]
-subdir = 'plugins'
-version = '5.7.7'
-name_format = 'tablist-{version}.jar'
-url = 'https://github.com/montlikadani/TabList/releases/download/v5.7.7/TabList-bukkit-v5.7.7.jar'
-hash = 'SHA256:86fd01aae58b2ebac7dee9c77078ea5dbb9742c425fe0afd6cdae6121f2a79f9'
+# mentioned as not needed
+# reccomended switch to "TAB", becasue "tablist" is unmaintained. https://modrinth.com/plugin/tab-was-taken
+#[tablist]
+#subdir = 'plugins'
+#version = '5.7.7'
+#name_format = 'tablist-{version}.jar'
+#url = 'https://github.com/montlikadani/TabList/releases/download/v5.7.7/TabList-bukkit-v5.7.7.jar'
+#hash = 'SHA256:86fd01aae58b2ebac7dee9c77078ea5dbb9742c425fe0afd6cdae6121f2a79f9'
 
 [viaversion]
 subdir = 'plugins'
