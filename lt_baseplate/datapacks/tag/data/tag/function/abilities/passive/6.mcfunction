@@ -1,4 +1,4 @@
-execute as @s[tag=!safezone, gamemode=adventure, tag=!tagger, tag=!safezone] run item replace entity @s container.0 with stick[custom_model_data=0, custom_data={game: 1}, custom_name='{"translate": "menu.pa.6", "color": "#9d5100", "bold": false, "italic": false}', enchantments={levels:{knockback: 3}, show_in_tooltip: true}, enchantment_glint_override=true]
+execute as @s[tag=!safezone, gamemode=adventure, tag=!tagger, tag=!safezone] run item replace entity @s container.0 with stick[custom_model_data={floats:[0f]}, custom_data={game: 1}, custom_name={"translate": "menu.pa.6", "color": "#9d5100", "bold": false, "italic": false}, enchantments={knockback: 3}, enchantment_glint_override=true]
 execute as @s[tag=!safezone, gamemode=adventure, tag=!tagger, tag=!safezone] run scoreboard players set @s pa.active 1
 
 execute unless score game server matches 4 as @s[tag=!safezone, gamemode=adventure, tag=!tagger] run attribute @s entity_interaction_range modifier remove tag:knock_em_out

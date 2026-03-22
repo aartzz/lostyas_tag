@@ -719,7 +719,7 @@ function tag:events/bad_weather
 
 
 execute as @e[type = ender_pearl] run team join pearl @s
-execute as @e[type = ender_pearl] run data merge entity @s {Glowing: 1b, Item: {components:{"custom_model_data":0}}}
+execute as @e[type = ender_pearl] run data merge entity @s {Glowing:1b,Item:{components:{"minecraft:custom_model_data":{floats:[0.0]}}}}
 execute as @e[type = ender_pearl] at @s run particle glow ~ ~.1 ~ .1 .1 .1 .01 5 force
 
 
