@@ -49,7 +49,7 @@ region-file-compression=deflate
 require-resource-pack=false
 resource-pack=https\://www.dropbox.com/scl/fi/prqm3cbtjja3bdmlwweq7/tag.zip?rlkey\=f55ntvts4acbnq1a2cthll80a&st\=jy6vcm7f&dl\=1
 resource-pack-id=
-resource-pack-prompt=Please install this texturepack to play the game. If you don't, you won't see translation lines and other important textures
+resource-pack-prompt={"text":"Please install this texturepack to play the game. If you don't, you won't see translation lines and other important textures"}
 resource-pack-sha1=
 server-ip=
 server-port=20189
