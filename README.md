@@ -1,5 +1,5 @@
 ![logo alpha](logo_alpha.png)
-### minecraft: 1.21.3 // core: papermc 1.21.3 #80 // java 21
+### minecraft: 1.21.11 // core: papermc 1.21.11 #127 // java 21
 a minigame about chasing people around. this is an early alpha, most of the stuff requires admin interaction to happen
 
 pls contribute i write code like garbage
