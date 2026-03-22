@@ -68,5 +68,5 @@
   "options.on": "§3✔",
   "options.off.composed": "%s §4❌",
   "options.on.composed": "%s §3✔",
-  "options.generic_value": "%s %s",
+  "options.generic_value": "%s %s"
 }

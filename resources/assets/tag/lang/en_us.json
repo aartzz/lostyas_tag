@@ -206,6 +206,7 @@
   "item.tag.ability.use": "Ability",
   "item.tag.ability.cd": "Ability",
   "item.tag.ability.none": "You don't have an ability!",
+  "item.tag.tagger": "Tagger",
 
   "item.tag.passive_active": "Passive ability",
   "item.tag.passive_not_active": "Passive ability",

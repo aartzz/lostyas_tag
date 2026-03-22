@@ -115,22 +115,22 @@
     },
     "downed_even": {
         "sounds": [
-            "tag:downed_even"
+            "tag:downed"
         ]
     },
     "downed_odd": {
         "sounds": [
-            "tag:downed_odd"
+            "tag:downed_nnb"
         ]
     },
     "downed_intro": {
         "sounds": [
-            "tag:downed_intro"
+            "tag:downed_old"
         ]
     },
     "downed_outro": {
         "sounds": [
-            "tag:downed_outro"
+            "tag:downed"
         ]
     },
     "jump": {
@@ -191,12 +191,12 @@
     },
     "round.60_sec": {
         "sounds": [
-            "tag:round_finish/round.60_sec"
+            "tag:round.60_sec"
         ]
     },
     "round.30_sec": {
         "sounds": [
-            "tag:round_finish/round.30_sec"
+            "tag:round.30_sec"
         ]
     },
     "round.countdown_10": {
@@ -251,27 +251,27 @@
     },
     "round.overtime": {
         "sounds": [
-            "tag:round_finish/round.overtime"
+            "tag:round.overtime"
         ]
     },
     "round.overtime_start": {
         "sounds": [
-            "tag:round_finish/round.overtime_start"
+            "tag:round.overtime_start"
         ]
     },
     "round.starting_clock_note": {
         "sounds": [
-            "tag:round_finish/round.starting_clock_note"
+            "tag:round.starting_clock_note"
         ]
     },
     "round.starting_clock_counter": {
         "sounds": [
-            "tag:round_finish/round.starting_clock_counter"
+            "tag:round.starting_clock_counter"
         ]
     },
     "round.starting_clock_start": {
         "sounds": [
-            "tag:round_finish/round.starting_clock_start"
+            "tag:round.starting_clock_start"
         ]
     }
 }
