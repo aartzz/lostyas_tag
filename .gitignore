@@ -2,7 +2,7 @@
 #/lt_playground_winter/
 *_nether/
 *_the_end/
-plugins/
+plugins/*.jar
 config/
 server.jar
 bukkit.yml
