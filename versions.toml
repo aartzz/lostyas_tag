@@ -10,7 +10,7 @@ hash = 'SHA256:da497e12b43e5b61c5df150e4bfd0de0f53043e57d2ac98dd59289ee9da4ad68'
 subdir = 'plugins'
 version = '1.3.1'
 name_format = 'doorsreloaded-{version}.jar'
-url = 'https://api.spiget.org/v2/resources/91722/versions/437678/download' # spigotmc.org API, bypasses cloudflare bot protection
+url = 'https://api.spiget.org/v2/resources/91722/versions/437678/download/proxy' # spigotmc.org API, bypasses cloudflare bot protection
 hash = 'SHA256:be9f9a21a3f3911a101784b0599f9aebd2035062e0673c9ac8e959794c454c70'
 
 #url = 'https://www.spigotmc.org/resources/doors-reloaded.91722/download?version=437678'
