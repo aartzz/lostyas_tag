@@ -56,12 +56,13 @@ hash = 'SHA256:4528e3bb08b5ebf255ed9dd5698b286abf4b84f6c13c33b8bf753a40d9adcafb'
 #hash = 'SHA256:'
 
 # using "TAB" because "tablist" is unmaintained
-[tab]
-subdir = 'plugins'
-version = '5.5.0'
-name_format = 'tab-{version}.jar'
-url = 'https://cdn.modrinth.com/data/gG7VFbG0/versions/ytrzzJbN/TAB%20v5.5.0.jar'
-hash = 'SHA256:829e7ec22bc41069d93b53479a8fe4a335a579c9c5b37a4cf140da176aea65f6'
+# mentioned as not needed
+#[tab]
+#subdir = 'plugins'
+#version = '5.5.0'
+#name_format = 'tab-{version}.jar'
+#url = 'https://cdn.modrinth.com/data/gG7VFbG0/versions/ytrzzJbN/TAB%20v5.5.0.jar'
+#hash = 'SHA256:829e7ec22bc41069d93b53479a8fe4a335a579c9c5b37a4cf140da176aea65f6'
 
 [viaversion]
 subdir = 'plugins'
