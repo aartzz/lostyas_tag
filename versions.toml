@@ -1,9 +1,9 @@
 [servercore_papermc]
 game_version = '1.21.3'
-core_version = '80'
+core_version = '83'
 name_format = 'server.jar'
-url = 'https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/80/downloads/paper-1.21.3-80.jar'
-hash = 'SHA256:ea8ac3f813abee88f3be3a7d3ae3d1b744542cbbd534bc427ed673f26a24e504'
+url = 'https://fill-data.papermc.io/v1/objects/87e973e1d338e869e7fdbc4b8fadc1579d7bb0246a0e0cf6e5700ace6c8bc17e/paper-1.21.3-83.jar'
+hash = 'SHA256:87e973e1d338e869e7fdbc4b8fadc1579d7bb0246a0e0cf6e5700ace6c8bc17e'
 
 
 [doors_reloaded]
